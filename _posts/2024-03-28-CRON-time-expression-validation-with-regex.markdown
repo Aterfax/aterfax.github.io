@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CRON time expression validation with regex"
-date:   2024-03-29 17:21:59 +0000
+date:   2024-03-28 17:21:59 +0000
 categories: cron bash python blog
 ---
 
